@@ -6,7 +6,7 @@
     }
   ],
   "name": "lmsdemo20230313",
-  "namespace": "",
+  "namespace": "lmsdemo20230313",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "57.0"
 }
